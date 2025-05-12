@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-header {
+    /* background-color: rgb(26 188 156); */
+    background-color: #1ABC9C;
+    color: white;
+}
+.bg-footer{
+    /* background-color: rgb(26 188 156); */
+    background-color: #1ABC9C;
+    color: white;
+}
+.navbar .nav-item .nav-link {
+    color: white;
+}
+.navbar .nav-item .nav-link:hover {
+    color: rgb(211, 255, 246);
+}
